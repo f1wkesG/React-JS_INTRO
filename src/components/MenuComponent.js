@@ -32,7 +32,7 @@ const Menu = (props) => {
     });
 
     return (
-        <div className="row">
+        <div className="row menu">
             {menu}
         </div>
     );
